@@ -18,8 +18,7 @@ The user can then filter by date, city, state, country and shape simultaneously.
 <img width="1185" alt="city date shape date and country " src="https://user-images.githubusercontent.com/85713470/131278433-07642a6b-0b2c-4bfc-adb8-eaee2e2e40e0.png">
 
 ## Analysis
-This website allows the user to 
-
+Although the website allows the user to input their desired criteria, a feature that would need to be improved is that they must first know if what they are searching for is in the table. Additionally, the addition of a button for filtering, rather than just pressing enter, would make the page more intuitive to work with. 
 
 
 
