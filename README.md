@@ -18,7 +18,7 @@ The user can then filter by date, city, state, country and shape simultaneously.
 <img width="1185" alt="city date shape date and country " src="https://user-images.githubusercontent.com/85713470/131278433-07642a6b-0b2c-4bfc-adb8-eaee2e2e40e0.png">
 
 ## Analysis
-
+This website allows the user to 
 
 
 
